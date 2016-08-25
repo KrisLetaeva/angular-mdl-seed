@@ -4,13 +4,13 @@
   "email": "xander.monk@gmail.com",
   "url": "http://webbrain.pro",
   "version": "0.1.0a",
-  "homepage": "",
+  "homepage": "https://github.com/xander-monk/angular-mdl-seed",
   "description": "",
   "license": "MIT",
   "bugs": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:xander-monk/angular-mdl-seed.git"
   },
   "devDependencies": {
     "browser-sync": "~2.7.1",
